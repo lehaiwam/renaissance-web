@@ -1,0 +1,3 @@
+To implement the carousel for the champions for each competition we used a ReactJs package, i.e.
+react-multi-carousel. Steps:
+    1. npm install react-muti-carousel --save

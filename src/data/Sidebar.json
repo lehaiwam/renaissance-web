@@ -1,0 +1,96 @@
+[
+    {
+        "title": "Home",
+        "icon": "bi-house-fill",
+        "childrens": [
+            {
+                "title": "My Profile",
+                "icon": "bi-person-fill",
+                "path": "/profile"
+            },
+            {
+                "title": "Migs",
+                "icon": "bi-people-fill",
+                "path": "/migs"
+            },
+            {
+                "title": "Calendar",
+                "icon": "bi-calendar3",
+                "path": "/calendar"
+            },
+            {
+                "title": "Our Albums",
+                "icon": "bi-images",
+                "path": "/albums"
+            }
+        ]
+    },
+
+    {
+        "title": "Competitions",
+        "icon": "bi-trophy-fill",
+        "childrens": [
+            {
+                "title": "OOM Medal",
+                "icon" : "bi-person-fill",
+                "path" : "/competition/medal"
+            },
+            {
+                "title": "IPS",
+                "icon" : "bi-info-circle-fill",
+                "path" : "/competition/ips"
+            },
+            {
+                "title": "Tubs Memorial",
+                "icon" : "bi-info-circle-fill",
+                "path" : "/competition/tubs-memorial"
+            },
+            {
+                "title": "Champ of Champs",
+                "icon" : "bi-info-circle-fill",
+                "path" : "/competition/coc"
+            }
+        ]
+    },
+    {
+        "title": "Contact Us",
+        "icon" : "bi-envelope-at-fill",
+        "path" : "/contact-us"
+    },
+    {
+        "title": "Administration",
+        "icon" : "bi-wrench", 
+        "childrens": [
+            {
+                "title": "Calendar",
+                "icon": "bi-calendar3",
+                "path": "/admin/calendar"
+            },
+            {
+                "title": "MIGS",
+                "icon": "bi-people-fill",
+                "path": "/admin/migs"
+            },
+            {
+                "title": "Data Initialize",
+                "icon": "bi-save",
+                "path": "/admin/initialize"
+            },
+            {
+                "title": "Manage Albums",
+                "icon": "bi-images",
+                "path": "/admin/album"
+            }
+        ]
+    },
+    {
+        "title": "About",
+        "icon": "",
+        "path": "/about"
+    },
+    {
+        "title": "Sign Out",
+        "icon": "bi-box-arrow-left",
+        "path": "/signout"
+    }
+]
