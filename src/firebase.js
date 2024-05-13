@@ -6,7 +6,7 @@ import { getFirestore } from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDc8GKVNr_3cC9VmH1HFq1rD6mnwGtS-5c",
+  apiKey: "", // Removed for safety
   authDomain: "renaissance-5112a.firebaseapp.com",
   projectId: "renaissance-5112a",
   storageBucket: "renaissance-5112a.appspot.com",
